@@ -1,4 +1,4 @@
-# federated_learning_with_ZEPHYR
+# Federated Learning for Heart Rate Prediction
 
 ## Overview
 This notebook demonstrates the implementation of federated learning for heart rate prediction using TensorFlow Federated (TFF). Federated learning is a machine learning approach where the model is trained across multiple decentralized devices or servers, ensuring privacy and security of sensitive data.
